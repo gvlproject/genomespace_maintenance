@@ -1,5 +1,5 @@
-# EMBL-ABR Search for Training Materials
-Maintenance page for EMBL-ABR ToolsAU.
+# GS AU
+Maintenance page for GenomeSpace Australia.
 
 ### Launch instructions
 
